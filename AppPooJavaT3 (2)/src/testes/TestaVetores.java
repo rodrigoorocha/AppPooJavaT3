@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TestaVetores {
 	public static void main(String[] args) {
-
+//teste vetores
 		int tamanho = Integer.valueOf(args[0]);
 		                 
 		float[] valores = new float [tamanho];
